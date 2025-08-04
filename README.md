@@ -1,4 +1,4 @@
-*# LOCAL RAG (2024)*
+# LOCAL RAG 
 
 📚 RAG with Local LLM (Ollama)
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using a local LLM powered by Ollama. It allows you to upload PDFs, extract and vectorize content, and query information using natural language, all locally for maximum privacy and offline capability.
